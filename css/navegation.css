@@ -1,0 +1,17 @@
+    /*шапка_______________________________________________*/
+header li {
+    display: inline-block;
+    font-size: 25px;
+    margin-left: 30px;
+
+}
+
+header ul {
+    margin-left: 500px;
+    margin-top: 80px;
+}
+
+header a {
+    text-decoration: none;
+    color: black;
+}
